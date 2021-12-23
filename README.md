@@ -1,2 +1,2 @@
 # NPTEL-certificates
-CP
+NPTEL Competeitve Programming certificate 2020.
